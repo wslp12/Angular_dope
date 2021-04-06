@@ -1,5 +1,5 @@
-# 프로젝트 정보
-host: https://dopehotz.com/
+# Info
+## https://dopehotz.com/
 #### Lang 
 Angular (version 7.0.1)
 #### CI
